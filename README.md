@@ -6,3 +6,4 @@ It uses mathematical differential equations to make a simulation of cellular int
 I built a code that has a Python coded numerical simulation that models the kinetic destruction of tumor cells through engineered viral vectors over a 72 hour period. 
 
 PS: this is an old model and i've made a new model (V3) and it's way better than this i recommend u check it out!
+new model: https://github.com/turtilized/Oncolytic-Virus-Simulation-V3
